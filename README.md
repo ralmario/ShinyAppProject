@@ -6,7 +6,7 @@ The _Rice Data_ Shiny application serves as an interactive data provider that sh
 * Estimated yield per hectare (kilogram)
 * Estimated gross returns per hectare (Peso per hectare)
 
-You may visit and try the app at:
-Rice Data app: https://ralmario.shinyapps.io/ricedata/
-Pitch presentation: 
-Source code: 
+You may visit and try the app at: <br/>
+Rice Data app: https://ralmario.shinyapps.io/ricedata/ <br/>
+Pitch presentation: <br/>
+Source code: https://github.com/ralmario/ShinyAppProject <br/>
