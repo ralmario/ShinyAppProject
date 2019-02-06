@@ -8,5 +8,5 @@ The _Rice Data_ Shiny application serves as an interactive data provider that sh
 
 You may visit and try the app at: <br/>
 Rice Data app: https://ralmario.shinyapps.io/ricedata/ <br/>
-Pitch presentation: <br/>
+Pitch presentation: https://ralmario.github.io/ShinyAppProject/R%20Presentation/riceData%20Pres.html#/<br/>
 Source code: https://github.com/ralmario/ShinyAppProject <br/>
